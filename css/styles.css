@@ -1,0 +1,64 @@
+body{
+	background-image: url("../images/Backbanner.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;  
+	background-size: cover;
+	color: white;
+}
+
+.jumbotron{
+	color: white;
+	background: transparent;
+}
+
+.disabled{
+	cursor: not-allowed
+}
+
+.nav{
+	background-color: #343434;
+}
+
+h1{
+	font-family: spartan
+}
+
+.leftside{
+	text-align: left;
+	Background-color: transparent;
+}
+
+.rightside{
+	text-align: left;
+	background-color: transparent;
+}
+
+#Gallink{
+	text-decoration: underline;
+	color: white;
+	font-style: italic;
+}
+
+h1, h3, h5{
+	font-family: 'Spartan', sans-serif;
+}
+
+body{
+	font-family: 'Inter', sans-serif;
+}
+
+.images{
+	padding: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;	
+}
+
+
+
+
+
+
+
+
+
